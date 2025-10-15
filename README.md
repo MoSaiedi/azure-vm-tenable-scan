@@ -1,4 +1,4 @@
-Description: This project demonstrates a hands-on approach to building and testing a secure cloud environment using Microsoft Azure and Tenable vulnerability scanning tools. The primary objective of this lab is to understand the real-world process of deploying a cloud-hosted virtual machine (VM), configuring its accessibility, and assessing its security posture through authenticated local scans — all within a controlled and ethical testing environment.
+Description: This project demonstrates my hands on approach to building and testing a secure cloud environment using Microsoft Azure and Tenable vulnerability scanning tools. The primary objective of this lab is to understand the real-world process of deploying a cloud-hosted virtual machine (VM), configuring its accessibility, and assessing its security posture through authenticated local scans — all within a controlled and ethical testing environment.
 
 Step 1: Created a Virtual Machine in Azure. I ensured this virtual machine had a public ip address. 
 <img width="1405" height="515" alt="Screenshot 2025-10-14 at 7 33 46 PM" src="https://github.com/user-attachments/assets/dce72347-ea17-4f1e-a652-a05980e8a8c0" />

@@ -13,7 +13,7 @@ Step 3: I logged into the virtual machine and removed fire wall settings on the 
 <img width="810" height="681" alt="image" src="https://github.com/user-attachments/assets/57694768-cfdb-4eb0-9091-658a754d1dbd" />
 <img width="1045" height="782" alt="image" src="https://github.com/user-attachments/assets/cebb4345-8005-4263-9ef3-085ce042a114" />
 
-Step 4: I logged into the Tenable console and started a Basic Network Scan. I provided Tenable with the public IP address of my machine. I ran scan on my machine without providing tenable my machine's credentials to similuate the kind of simple scan a curious hacker might deploy against a machine it doesn't have the credentials for. 
+Step 4: I logged into the Tenable console and started a Basic Network Scan. I provided Tenable with the public IP address of my machine. I ran the scan on my machine without providing tenable my machine's credentials to similuate the kind of simple scan a curious hacker might deploy against a machine it doesn't have the credentials for. 
 
 <img width="1280" height="643" alt="image" src="https://github.com/user-attachments/assets/b3968612-84ef-418d-aedc-3786acc6de6c" />
 
